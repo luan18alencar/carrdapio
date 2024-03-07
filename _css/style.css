@@ -1,0 +1,212 @@
+body {     font-family: Arial, sans-serif;     
+    margin: 0;     
+    padding: 0; 
+} 
+header {     
+    
+        background-color: red;
+        padding: 5px 0;
+        padding: 0;
+      }
+
+h1 
+{     
+    margin: 0;     
+    font-size: 24px; 
+} 
+h2 
+{     
+    margin: 10px 0;
+    font-size: 18px; 
+    color: red;
+    text-align: center;
+}
+
+.pratos, .sushi, .bebidas 
+ {     
+    display: flex;     
+    flex-wrap: wrap; 
+} 
+.pratos li, .sushi li, .bebidas li 
+{     
+    margin: 10px;
+    width: 300px;     
+    border: 1px solid #ddd;     
+    padding: 10px;     
+    border-radius: 5
+}
+#sake
+{
+width: 80% ;
+}
+header h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  header p {
+    font-size: 1.2em;
+  }
+  
+  main {
+    padding: 40px 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+    border-color: rgb(95, 93, 93);
+  }
+  
+  section h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  section p {
+    font-size: 1em;
+  }
+  
+  .sobre {
+    text-align: justify;
+  }
+  
+  .ambiente, .eventos, .reservas {
+    background-color: #000000;
+    padding: 20px;
+  }
+  
+  .reservas a {
+    background-color: #000;
+    color: #fafafa;
+    padding: 10px 20px;
+    text-decoration: none;
+    position: absolute;
+    top:105%;
+    left: 45%;
+  }
+  
+  footer {
+    background-color: #ff000057;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 1em;
+    margin-bottom: 10px;
+  }
+  
+  footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  footer ul li {
+    display: inline-block;
+    margin-right: 10px;
+    color:white;
+  }
+  
+  footer ul li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  footer ul li a:hover {
+    color: #000;
+  }
+
+  nav#menu a:link{
+    text-decoration: none;
+ color: rgb(255, 141, 88);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+
+ }
+nav#menu a:visited{
+color: rgb(0, 0, 0);
+
+}
+nav#menu{
+    display: block;
+    top: 1000%;
+}
+nav#menu li{
+display: inline-block;
+left: 70px;
+
+}
+nav#menu ul{
+    text-transform: uppercase;
+    list-style: none
+    ;
+    position: absolute;
+    top: 40px;
+    left: 1000px;
+    
+    }
+nav#menu h1{
+    padding: -5%;
+}
+html{
+    background-color: rgb(255, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1#menuzin{
+    color: rgb(255, 0, 0)
+
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ display:block;
+ margin-block-start: 1em;
+ margin-block-end:1em;
+ margin-inline-start: 0px;
+ margin-inline-end: 0px;
+ padding-inline-start:40px;
+}
+h3{
+  color: white;
+}
+p#p{
+  color: white;
+  text-align: center;
+}
+p{
+  color: white;
+  text-align: center;
+}
+section{
+  text-align: center;
+
+}
+main{
+  background-color: #000000;
+}
+h1#restaurante{
+position:relative;
+left: 10%;
+}
+p#restaurante2{
+  position:relative;
+  left: -27%;
+  }
+#sushi{
+    width: 1%;
+  }
+  img{
+    width: 95%;
+  }
+span{
+  color: white;
+}
+body {
+  background-image: url(img/fundoo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
