@@ -28,7 +28,7 @@ Venha se Apaixonar pelo Restaurante Sakura!
 # Faça sua Reserva:
 
 Telefone: (43) 99863-3658
-Website: www.restaurantesakura.com [URL inválido removido].br
+Website: https://github.com/luan18alencar/carrdapio
 Redes Sociais:
 
 Instagram: @restaurante.sakura
@@ -49,4 +49,4 @@ Cartão de Débito
 Pix
 Esperamos por você!
 
-#restaurantesakura #comidajaponesa #experienciagastronomica #qualidade #tradição #inovaçã
+#restaurantesakura #comidajaponesa #experienciagastronomica #qualidade #tradição #inovação
